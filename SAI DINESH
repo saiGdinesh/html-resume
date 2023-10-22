@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1><u>Sai dinesh</u></h1>
+    <p>Full Stack learner</p>
+    <p>ABCITY 00001</p>
+    <hr>
+    <h2>Objective :</h2>
+    <p>Giving my best in organisation</p>
+    <hr>
+    <h2>Education :</h2>
+    <h3>BCA</h3>
+    <ul><li>CSMJ CLG</li>
+        <li>69%</li>
+    </ul>
+    <h3>DIPLOMA</h3>
+    <ul><li>GKC CLG</li>
+        <li>74%</li>
+    </ul>
+    <hr>
+    <h2>Technical Skills :</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Java script</li>
+    </ul>
+    <hr>
+    <h2>Soft Skills:</h2>
+    <ul>
+        <li>Good team player</li>
+        <li>Great Communication Skills</li>
+        <li>HARD WORK & FLEXIBLE</li>
+    </ul>
+    <hr>
+    <h2>Declaration :</h2>
+    <pre>                 I here by declare that above details are correct.</p>
+
+
+</body>
+</html>
